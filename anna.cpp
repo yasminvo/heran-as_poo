@@ -11,7 +11,7 @@ class Conta{
       double getCadastro() const;
       void debitar (double valor);
       void creditar (double valor);
-      void imprime () const;
+      void imprime ();
 
 
     private:
